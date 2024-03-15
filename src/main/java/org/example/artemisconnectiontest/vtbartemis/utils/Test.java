@@ -1,4 +1,4 @@
-package org.example.artemisconnectiontest;
+package org.example.artemisconnectiontest.vtbartemis.utils;
 
 import jakarta.xml.bind.annotation.*;
 import lombok.NoArgsConstructor;
@@ -8,9 +8,7 @@ import org.apache.commons.lang3.builder.HashCodeBuilder;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.util.List;
 
 @SuperBuilder
 @NoArgsConstructor
